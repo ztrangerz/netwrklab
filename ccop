@@ -1,0 +1,23 @@
+Enter bucket size, outgoing rate, and the number of inputs: 50 100 3
+
+Enter incoming packet size: 25
+
+Bucket size 25 out of 50
+
+After outgoing 100 packets, buffer underflow: 75 packets After outgoing 100 packets left out of 0 in buffer
+
+Enter incoming packet size: 25
+
+Bucket size 25 out of 50
+
+After outgoing 100 packets, buffer underflow: 75 packets
+
+After outgoing 100 packets left out of 0 in buffer
+
+Enter incoming packet size: 10
+
+Bucket size 10 out of 50
+
+After outgoing 100 packets, buffer underflow: 90 packets
+
+After outgoing 100 packets left out of 0 in buffer
